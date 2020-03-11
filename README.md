@@ -1,2 +1,2 @@
 # api-asp
-Api using Asp net Core
+A small project using asp net core.
